@@ -216,7 +216,7 @@ ORDER BY Month;```
 ## 📁 Repository Structure
 
 ```text
-finance-analytics-dashboard/
+Financial Budget vs Actual Spending Analytics/
 │
 ├── data_pipeline/
 │   └── load_data.py
