@@ -216,19 +216,19 @@ ORDER BY Month;```
 ## 📁 Repository Structure
 
 ```text
-Financial Budget vs Actual Spending Analytics/
+financial-budget-vs-actual-spending-analytics/
 │
 ├── data_pipeline/
 │   └── load_data.py
 │
 ├── sql/
 │  ├── finance_budget_vs_Actual_spending_Analytics.sql
-│  ├── Budget_table 
-│  └── Transactions_table
+│  ├── Budget_table.png 
+│  └── Transactions_table.png
 ├── screenshots/
 │   ├── dashboard.png
-│   ├── Monthly_Analysis
-│   ├── Spent_Vs_Budget
+│   ├── Monthly_Analysis.png
+│   ├── Spent_Vs_Budget.png
 │   └── analysis_by_category.png
 │
 ├── README.md
