@@ -222,14 +222,15 @@ financial-budget-vs-actual-spending-analytics/
 │   └── load_data.py
 │
 ├── sql/
-│  ├── finance_budget_vs_Actual_spending_Analytics.sql
-│  ├── Budget_table.png 
-│  └── Transactions_table.png
+│  └──  finance_budget_vs_Actual_spending_Analytics.sql 
+│ 
 ├── screenshots/
 │   ├── dashboard.png
-│   ├── Monthly_Analysis.png
+│   ├── monthly_analysis.png
 │   ├── Spent_Vs_Budget.png
-│   └── analysis_by_category.png
+│   ├── Budget_table.png
+│   ├── Transactions_table.png
+│   └── category_analysis.png
 │
 ├── README.md
 └── requirements.txt
