@@ -232,8 +232,7 @@ finance-analytics-dashboard/
 │   └── analysis_by_category.png
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
