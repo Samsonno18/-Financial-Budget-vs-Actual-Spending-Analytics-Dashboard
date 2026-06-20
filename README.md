@@ -228,8 +228,8 @@ financial-budget-vs-actual-spending-analytics/
 │   ├── dashboard.png
 │   ├── monthly_analysis.png
 │   ├── Spent_Vs_Budget.png
-│   ├── Budget_table.png
-│   ├── Transactions_table.png
+│   ├── budget_table.png
+│   ├── transactions_table.png
 │   └── category_analysis.png
 │
 ├── README.md
